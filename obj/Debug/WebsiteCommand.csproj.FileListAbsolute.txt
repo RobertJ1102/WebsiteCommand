@@ -14,3 +14,9 @@ D:\git\WebsiteCommand\bin\Debug\WebsiteCommand.pdb
 D:\git\WebsiteCommand\obj\Debug\WebsiteCommand.csprojAssemblyReference.cache
 D:\git\WebsiteCommand\obj\Debug\WebsiteCommand.dll
 D:\git\WebsiteCommand\obj\Debug\WebsiteCommand.pdb
+C:\Users\rbj17\Documents\GitHub\WebsiteCommand\bin\Debug\WebsiteCommand.dll
+C:\Users\rbj17\Documents\GitHub\WebsiteCommand\bin\Debug\WebsiteCommand.pdb
+C:\Users\rbj17\Documents\GitHub\WebsiteCommand\obj\Debug\WebsiteCommand.csproj.AssemblyReference.cache
+C:\Users\rbj17\Documents\GitHub\WebsiteCommand\obj\Debug\WebsiteCommand.csproj.CoreCompileInputs.cache
+C:\Users\rbj17\Documents\GitHub\WebsiteCommand\obj\Debug\WebsiteCommand.dll
+C:\Users\rbj17\Documents\GitHub\WebsiteCommand\obj\Debug\WebsiteCommand.pdb
